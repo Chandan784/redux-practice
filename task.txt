@@ -1,0 +1,7 @@
+shopping cart project
+
+
+navbar - cart- product quantity and total price 
+
+
+home page - product page - product title, price , addToCart button 
